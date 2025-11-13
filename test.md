@@ -1,5 +1,3 @@
-# Test Heading
-
 ![CAT](./images/cat.jpg){height=250 margin=auto}
 
 * Bullet 1
