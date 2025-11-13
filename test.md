@@ -1,9 +1,3 @@
----
-itemId: test-itemId
-itemType: test-itemType
-itemFulfills:
----
-
 # Test Heading
 
 Lorem Ipsum
