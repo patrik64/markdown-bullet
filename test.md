@@ -1,6 +1,6 @@
 ![CAT](./images/cat.jpg){height=250 margin=auto}
 
-1. x
+* x
 
 ![CAT](./images/cat.jpg){height=250 margin=auto}
 
