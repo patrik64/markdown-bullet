@@ -2,10 +2,6 @@
 
 Lorem Ipsum
 
-## Test Heading 2
-
-![CAT](../../../../Images/cat.png){height=250 margin=auto}
-
 * Bullet 1
 * Bullet 2
      
