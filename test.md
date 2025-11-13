@@ -2,6 +2,8 @@
 
 Lorem Ipsum
 
+![CAT](../../../../Images/cat.png){height=250 margin=auto}
+
 * Bullet 1
 * Bullet 2
      
